@@ -1,4 +1,4 @@
-# 
+# Official AI Handwriting Recognition templates. Featuring real-time-processing and transfer-learning — optimized for maximum performance.
 
 
 
